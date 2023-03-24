@@ -5,4 +5,5 @@ require("em0ral.core.colorscheme")
 require("em0ral.plugins.comment")
 require("em0ral.plugins.nvim-tree")
 require("em0ral.plugins.lualine")
-
+require("em0ral.plugins.telescope")
+require("em0ral.plugins.nvim-cmp")
