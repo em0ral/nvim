@@ -8,6 +8,6 @@ require("em0ral.plugins.lualine")
 require("em0ral.plugins.telescope")
 require("em0ral.plugins.nvim-cmp")
 require("em0ral.plugins.lsp.mason")
-require("em0ral.plugins.lsp.lspsage")
+require("em0ral.plugins.lsp.lspsaga")
 require("em0ral.plugins.lsp.lspconfig")
 
