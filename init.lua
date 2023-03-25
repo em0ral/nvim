@@ -10,4 +10,7 @@ require("em0ral.plugins.nvim-cmp")
 require("em0ral.plugins.lsp.mason")
 require("em0ral.plugins.lsp.lspsaga")
 require("em0ral.plugins.lsp.lspconfig")
-
+require("em0ral.plugins.lsp.null-ls")
+require("em0ral.plugins.autopairs")
+require("em0ral.plugins.treesitter")
+require("em0ral.plugins.gitsigns")
